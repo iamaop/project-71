@@ -1,0 +1,74 @@
+img{
+    width: 300px;
+    height: 300px;
+    border: 10px;
+}
+h4{
+    padding: 40px;
+    font-size: 20px;
+
+}
+img{
+    width: 500px;
+}
+p{
+    font-size:20px;
+    padding: 40px;
+}
+h5{
+    font-size: 20px;
+}
+.travel_mainDiv{
+    border: 1px solid lightgray;
+}
+/* .travel_mainDiv img{
+    width: 100%;
+} */
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin: 20px;
+}
+body{
+    text-align: center;
+}
+#achievements{
+    height: 500px;
+    
+}
+i{
+    float: right;
+    padding: auto;
+    padding-right: 10px;
+}
+span{
+    float: left;
+    padding-left: 10px;
+}
+.img-responsive{
+    padding-top: 50px;
+}
+#inter_school_football_match{
+    height: 120%;
+    width: 120%;
+}
+.bg-primary {
+    height: 35px
+}
+span{
+    font-size: 30px;
+    padding: auto;
+}
+.achievements_head{
+font-size: 20px;
+padding: auto;
+}
+.ff{
+    padding-top: 15px;
+}
+.im-responsiv{
+    height:200px;
+    width: 200px;
+}
+.ig-responsiv{
+    height:250px;
+    width: 250px;
+}
